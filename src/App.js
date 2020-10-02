@@ -29,7 +29,7 @@ function App() {
             {isLoading ? (
                 <Loader />
             ) : (
-                <div className="grid grid-cols-3 gap-4">
+                <div className="grid sm:grid-cols-1 md:grid-cols-3 gap-4">
                     {images.map((image) => (
                         <ImageCard key={image.id} image={image} />
                     ))}
