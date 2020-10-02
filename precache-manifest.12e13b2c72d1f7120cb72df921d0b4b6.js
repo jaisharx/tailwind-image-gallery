@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3f32596550169fa4a50576f4f45b9601",
+    "revision": "c0c27a0145d107c25274d6cb2f61c0e8",
     "url": "/tailwind-image-gallery/index.html"
   },
   {
-    "revision": "26702a82f83fd98a441b",
+    "revision": "34451848dd036d05708d",
     "url": "/tailwind-image-gallery/static/css/main.fd6d9b2c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tailwind-image-gallery/static/js/2.f86f32da.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "26702a82f83fd98a441b",
-    "url": "/tailwind-image-gallery/static/js/main.ebfc32ef.chunk.js"
+    "revision": "34451848dd036d05708d",
+    "url": "/tailwind-image-gallery/static/js/main.a2e875b2.chunk.js"
   },
   {
     "revision": "f1cfe1b06ac477edaaf5",

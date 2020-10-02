@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tailwind-image-gallery/static/css/main.fd6d9b2c.chunk.css",
-    "main.js": "/tailwind-image-gallery/static/js/main.ebfc32ef.chunk.js",
-    "main.js.map": "/tailwind-image-gallery/static/js/main.ebfc32ef.chunk.js.map",
+    "main.js": "/tailwind-image-gallery/static/js/main.a2e875b2.chunk.js",
+    "main.js.map": "/tailwind-image-gallery/static/js/main.a2e875b2.chunk.js.map",
     "runtime-main.js": "/tailwind-image-gallery/static/js/runtime-main.c352d264.js",
     "runtime-main.js.map": "/tailwind-image-gallery/static/js/runtime-main.c352d264.js.map",
     "static/js/2.f86f32da.chunk.js": "/tailwind-image-gallery/static/js/2.f86f32da.chunk.js",
     "static/js/2.f86f32da.chunk.js.map": "/tailwind-image-gallery/static/js/2.f86f32da.chunk.js.map",
     "index.html": "/tailwind-image-gallery/index.html",
-    "precache-manifest.5a8f3da097d1e8891992979ebf4a8224.js": "/tailwind-image-gallery/precache-manifest.5a8f3da097d1e8891992979ebf4a8224.js",
+    "precache-manifest.12e13b2c72d1f7120cb72df921d0b4b6.js": "/tailwind-image-gallery/precache-manifest.12e13b2c72d1f7120cb72df921d0b4b6.js",
     "service-worker.js": "/tailwind-image-gallery/service-worker.js",
     "static/css/main.fd6d9b2c.chunk.css.map": "/tailwind-image-gallery/static/css/main.fd6d9b2c.chunk.css.map",
     "static/js/2.f86f32da.chunk.js.LICENSE.txt": "/tailwind-image-gallery/static/js/2.f86f32da.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c352d264.js",
     "static/js/2.f86f32da.chunk.js",
     "static/css/main.fd6d9b2c.chunk.css",
-    "static/js/main.ebfc32ef.chunk.js"
+    "static/js/main.a2e875b2.chunk.js"
   ]
 }
